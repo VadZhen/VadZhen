@@ -10,7 +10,7 @@
 У меня 10-летний опыт работы в индустрии на должностях от электрика до главного инженера, а в настоящее время я работаю старшим научным сотрудником в исследовательской лаборатории. Последние несколько лет я активно изучаю Data Science и применяю полученные знания на практике для решения научных задач.
 
 **Мой стек:**
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PyTorch, Keras
 
 #
 ### Hi there 👋
@@ -25,4 +25,4 @@ I am a Ph.D. :triangular_ruler: :notebook: , scientist :microscope: , major in e
 I have gained 10 years of industry experience in positions ranging from electrician to chief engineer, and I am currently a senior scientist in a research laboratory. For the last few years, I have been actively studying Data Science and applying the gained knowledge in practice to solve scientific problems.
 
 **My stack:**
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PyTorch, Keras
