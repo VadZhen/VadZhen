@@ -4,7 +4,7 @@
 
 **Мой LinkedIn:** https://www.linkedin.com/in/vadimbolchev
 
-**Моя Google account:** https://scholar.google.com/citations?user=I1UUbWwAAAAJ&hl=en
+**Мой Google account:** https://scholar.google.com/citations?user=I1UUbWwAAAAJ&hl=en
 
 **Коротко о себе:**
 У меня 10-летний опыт работы в индустрии на должностях от электрика до главного инженера, а в настоящее время я работаю старшим научным сотрудником в исследовательской лаборатории. Последние несколько лет я активно изучаю Data Science и применяю полученные знания на практике для решения научных задач.
