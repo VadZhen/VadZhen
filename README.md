@@ -1,6 +1,6 @@
 ### Всем привет 👋
 
-Я кандидат технических наук :triangular_ruler: :notebook:, ученый :microscope:, специализируюсь в электротехнике, а именно в энергетике. :factory:
+Я кандидат технических наук :triangular_ruler: :notebook:, ученый :microscope:, специализируюсь в data science. :factory:
 
 **Мой LinkedIn:** https://www.linkedin.com/in/vadimbolchev
 
@@ -15,7 +15,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PyTorch, Keras
 #
 ### Hi there 👋
 
-I am a Ph.D. :triangular_ruler: :notebook: , scientist :microscope: , major in electrical engineering, namely power engineering. :factory:
+I am a Ph.D. :triangular_ruler: :notebook: , scientist :microscope: , major in data science. :factory:
 
 **My  LinkedIn account:** https://www.linkedin.com/in/vadimbolshev
 
